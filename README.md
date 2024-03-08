@@ -1,3 +1,6 @@
+03/08/2024 --- Version One. Annotations will be added later!
+
+
 Micrograd Lab (Neural Network Simulation from Scratch!)
 This is a great lab ledby Andrej Karpathy!
 
