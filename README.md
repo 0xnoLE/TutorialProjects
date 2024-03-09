@@ -1,18 +1,18 @@
 03/08/2024 --- Version One. Annotations will be added later!
 
 
-Micrograd Lab (Neural Network Simulation from Scratch!)
+# Micrograd Lab (Neural Network Simulation from Scratch!)
 This is a great lab ledby Andrej Karpathy!
 
 https://www.youtube.com/watch?v=VMj-3S1tku0&t=4249s&ab_channel=AndrejKarpathy
 
-Objective:
+## Objective:
 
 This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus.
 
 Basic Information
 
-Neural Networks
+## Neural Networks
 
 Neural networks are a core technology in AI, inspired by the structure and function of the human brain. At a basic level, a neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. Neural networks are used for a variety of tasks, including but not limited to, pattern recognition, classification, and prediction.
 
